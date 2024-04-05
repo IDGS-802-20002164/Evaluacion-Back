@@ -1,0 +1,335 @@
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\appsettings.json
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\SwiftSack.exe
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\SwiftSack.deps.json
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\SwiftSack.runtimeconfig.json
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\SwiftSack.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\SwiftSack.pdb
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Humanizer.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.AssemblyReference.cache
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfoInputs.cache
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfo.cs
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CoreCompileInputs.cache
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.SwiftSack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.build.SwiftSack.props
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SwiftSack.props
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SwiftSack.props
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\scopedcss\bundle\SwiftSack.styles.css
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CopyComplete
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\refint\SwiftSack.dll
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.pdb
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\SwiftSack.genruntimeconfig.cache
+C:\Users\machi\source\repos\SwiftSack\SwiftSack\obj\Debug\net6.0\ref\SwiftSack.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\appsettings.json
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.exe
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.deps.json
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.runtimeconfig.json
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.pdb
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Humanizer.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.AssemblyReference.cache
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfoInputs.cache
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfo.cs
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CoreCompileInputs.cache
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.SwiftSack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.build.SwiftSack.props
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SwiftSack.props
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SwiftSack.props
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\scopedcss\bundle\SwiftSack.styles.css
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CopyComplete
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\refint\SwiftSack.dll
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.pdb
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.genruntimeconfig.cache
+C:\Users\varga\Desktop\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\ref\SwiftSack.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\appsettings.Development.json
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\appsettings.json
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.exe
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.deps.json
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.runtimeconfig.json
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.pdb
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Humanizer.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.AssemblyReference.cache
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfoInputs.cache
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfo.cs
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CoreCompileInputs.cache
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cs
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cache
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.SwiftSack.Microsoft.AspNetCore.StaticWebAssets.props
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.build.SwiftSack.props
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SwiftSack.props
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SwiftSack.props
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.pack.json
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.build.json
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.development.json
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\scopedcss\bundle\SwiftSack.styles.css
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CopyComplete
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\refint\SwiftSack.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.pdb
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.genruntimeconfig.cache
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\obj\Debug\net6.0\ref\SwiftSack.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\appsettings.json
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.exe
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.deps.json
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.runtimeconfig.json
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.pdb
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Humanizer.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.AssemblyReference.cache
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfoInputs.cache
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfo.cs
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CoreCompileInputs.cache
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.SwiftSack.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.build.SwiftSack.props
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SwiftSack.props
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SwiftSack.props
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\scopedcss\bundle\SwiftSack.styles.css
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CopyComplete
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\refint\SwiftSack.dll
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.pdb
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.genruntimeconfig.cache
+D:\Downloads\Escuela\swift-sack-api\SwiftSack\obj\Debug\net6.0\ref\SwiftSack.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\git_prueba\IDGS-902\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\refint\SwiftSack.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.pdb
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\appsettings.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.exe
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.deps.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.runtimeconfig.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\SwiftSack.pdb
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Humanizer.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.AssemblyReference.cache
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfoInputs.cache
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.AssemblyInfo.cs
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.CoreCompileInputs.cache
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.sourcelink.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.SwiftSack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.build.SwiftSack.props
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SwiftSack.props
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SwiftSack.props
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\scopedcss\bundle\SwiftSack.styles.css
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.csproj.Up2Date
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\SwiftSack.genruntimeconfig.cache
+C:\Users\machi\OneDrive\Escritorio\Proyecto SwiftSack\swiftsack-api\SwiftSack\obj\Debug\net6.0\ref\SwiftSack.dll
